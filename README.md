@@ -1,3 +1,5 @@
+# Welcome!
+
 Hello there and thank you for joining us for [Microsoft Build 2020](https://mybuild.microsoft.com/)!
 
 Since we don't get to be with you in person this year, we decided to re-think swag a little bit and thus, 
